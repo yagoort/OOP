@@ -51,4 +51,8 @@ public class Agenda {
             System.out.println("Usuario no encontrado.");
         }
     }
+
+    public int getNoReg() {
+        return no_reg;
+    }
 }
